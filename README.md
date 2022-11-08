@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Trabalho com prestação de serviço em infraestrutura...
-- 🌱 Sou SYSOPS|SYSAD|SRE...
+- 🌱 Sou SysAdmin | SysOps | AWS Cloud Engineer | Platform Engineer
 - 📫 E-mail de contato: contato@screentech.com.br
+- 🔭 Linkedin: https://www.linkedin.com/in/ronaldoed/
